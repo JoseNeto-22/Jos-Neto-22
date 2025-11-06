@@ -1,4 +1,4 @@
-### Olá! Eu sou o José✌️
+### Olá! Eu sou o José Freitas✌️
 
 - 🔭 Em busca de estagio em TI
 - 📚 Estudando logica de programação, C e Phyton
